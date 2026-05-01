@@ -1,6 +1,6 @@
 # Number Guessing Game 🎯
 
-A Python-based number guessing game available in both CLI and GUI versions.
+A Python-based number guessing game available in GUI versions.
 
 ## Features
 - Random number generation (1–100)
